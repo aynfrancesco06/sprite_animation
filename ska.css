@@ -22,3 +22,15 @@ body {
     background-position: 405px;
   }
 }
+
+.text{
+  font-size: 20px;
+  text-align:center;
+}
+
+.text-container{
+ position:absolute;
+ top:70%;
+ left:50%;
+ transform:translate(-50%,-50%);
+}
